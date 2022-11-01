@@ -1,0 +1,22 @@
+body {
+  color:blue;
+background:aliceblue;
+
+}
+
+.heading{
+    width: 80%;
+    font-size: 22 px;
+}
+
+.name_of_object, #result_object_name, #result_object_accuracy {
+    color: blue;
+
+}
+
+#camera{
+    border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
+
